@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**lakshman2002-jpj/lakshman2002-jpj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 C. Lakshman
 
-Here are some ideas to get you started:
+### 🎓 MCA Student | 🧪 Automation Test Engineer | 🤖 AI & Data Science Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+👋 Hi, I'm C. Lakshman — an MCA student passionate about Software Testing, Python Automation, and AI-driven solutions.  
+💻 Skilled in Python, Selenium WebDriver, PyTest, Functional Testing, and MySQL.  
+🤖 Interested in building intelligent, automated, and data-driven systems.  
+📘 Published researcher: “Spam Comment Detection on YouTube Using Random Forest ML Technique” (IJSRCSEIT Journal).  
+🚀 Constantly learning and exploring opportunities in QA Automation and Data Science.
+### 🪶 About Me  
+- 🔍 Passionate about **Python Automation Testing** and **Machine Learning**.  
+- 🧠 Focused on writing clean, maintainable code with strong testing practices.  
+- 📚 Currently pursuing **Master of Computer Applications (2023–2025)** at *K.M.M Institute of PG Studies, Tirupati*.  
+- 🧩 Published a research paper — *Spam Comment Detection on YouTube Using Random Forest ML Technique* (IJSRCSEIT Journal).  
+
+---
+
+### 🧰 Tech Stack  
+**Languages:** Python, Java (Basics)  
+**Automation Tools:** Selenium WebDriver, PyTest, Unittest  
+**Database:** MySQL  
+**Other Tools:** Postman (API Testing), Git, GitHub, VS Code, Eclipse  
+**Core Areas:** Test Automation, Functional Testing, Bug Reporting, Machine Learning
+
+---
+
+### 🚀 Featured Projects  
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [Spam Comment Detection on YouTube](https://github.com/lakshman2002-jpj/YouTube-Spam-Comment-Detection) | Flask web app to detect YouTube spam comments using ML (Random Forest). Published in IJSRCSEIT. | Python, Flask, Scikit-learn, Pandas, MySQL |
+| [Automation Testing Framework](#) | (Coming soon) Selenium automation framework for web testing using PyTest. | Python, Selenium, PyTest |
+
+---
+
+### 🧾 Certifications  
+- 🏆 **Oracle Certified Multicloud Architect Professional** (OCI 2025)  
+- 🤖 **Oracle Certified Generative AI Professional** (OCI 2025)  
+
+---
+
+### 📫 Contact Me  
+📧 **Email:** [luckydarling601@gmail.com](mailto:luckydarling601@gmail.com)  
+💼 **LinkedIn:** www.linkedin.com/in/chandragiri-lakshman-618311357  
+🌐 **GitHub:** [github.com/lakshman2002-jpj](https://github.com/lakshman2002-jpj)
+
+---
+
+⭐ *“Code it once, automate it forever!”*
