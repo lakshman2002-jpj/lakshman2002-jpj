@@ -4,12 +4,13 @@
 ### 🎓 MCA Student | 🧪 Automation Test Engineer | 🤖 AI & Data Science Enthusiast
 
 ---
+### 🪶 About Me 
 👋 Hi, I'm C. Lakshman — an MCA student passionate about Software Testing, Python Automation, and AI-driven solutions.  
 💻 Skilled in Python, Selenium WebDriver, PyTest, Functional Testing, and MySQL.  
 🤖 Interested in building intelligent, automated, and data-driven systems.  
 📘 Published researcher: “Spam Comment Detection on YouTube Using Random Forest ML Technique” (IJSRCSEIT Journal).  
 🚀 Constantly learning and exploring opportunities in QA Automation and Data Science.
-### 🪶 About Me  
+ 
 - 🔍 Passionate about **Python Automation Testing** and **Machine Learning**.  
 - 🧠 Focused on writing clean, maintainable code with strong testing practices.  
 - 📚 Currently pursuing **Master of Computer Applications (2023–2025)** at *K.M.M Institute of PG Studies, Tirupati*.  
