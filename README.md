@@ -8,7 +8,7 @@
 
 - 🔍 Passionate about **Python Automation Testing** and **Machine Learning**.  
 - 🧠 Focused on writing clean, maintainable code with strong testing practices.  
-- 📚 Currently pursuing **Master of Computer Applications (2023–2025)** at *K.M.M Institute of PG Studies, Tirupati*.  
+- 📚 Rently Completed  **Master of Computer Applications (2023–2025)** at *K.M.M Institute of PG Studies, Tirupati*.  
 - 🧩 Published a research paper — *Spam Comment Detection on YouTube Using Random Forest ML Technique* (IJSRCSEIT Journal).  
 
 ---
