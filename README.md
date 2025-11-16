@@ -31,8 +31,8 @@
 ---
 
 ### 🧾 Certifications  
-- 🏆 **Oracle Certified Multicloud Architect Professional** (OCI 2025)  
-- 🤖 **Oracle Certified Generative AI Professional** (OCI 2025)  
+- 🏆 **Oracle Certified Multicloud Architect Professional** (OCI 2025) [Oracle Multicloud Architect Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CD18EAEAAD81F226AF20C5599210A0C8160C217931149DC9CAF51BA3784D965A)  
+- 🤖 **Oracle Certified Generative AI Professional** (OCI 2025) [Oracle Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=76DF01EFA04DC303F1746856B6277574E2D5DE71A71D34D3A0D9188E50AEA39A)  
 
 ---
 
