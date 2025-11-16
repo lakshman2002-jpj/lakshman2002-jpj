@@ -25,7 +25,7 @@
 ### 🚀 Featured Projects  
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [Spam Comment Detection on YouTube](https://github.com/lakshman2002-jpj/YouTube-Spam-Comment-Detection) | Flask web app to detect YouTube spam comments using ML (Random Forest). Published in IJSRCSEIT. | Python, Flask, Scikit-learn, Pandas, MySQL |
+| [Spam Comment Detection on YouTube](https://github.com/lakshman2002-jpj/spam) | Flask web app to detect YouTube spam comments using ML (Random Forest). Published in IJSRCSEIT. | Python, Flask, Scikit-learn, Pandas, MySQL |
 | [Automation Testing Framework](#) | (Coming soon) Selenium automation framework for web testing using PyTest. | Python, Selenium, PyTest |
 
 ---
